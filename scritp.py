@@ -1,0 +1,1 @@
+print("My first right git project.")
